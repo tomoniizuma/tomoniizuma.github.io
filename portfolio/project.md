@@ -6,8 +6,7 @@ permalink: /develop/
 
 
 
-# 開発実績 
-ここでは主に大学4年次(2013年4月〜2014年3月)に取り組んだ研究でのシステム開発について記述します．開発したウェブサイトは限定された利用者のみ利用可能ですので，URLを貼ることはできませんが，できるだけ詳細な説明を記述しました．
+ここでは主に大学4年次(2013年4月〜2014年3月)に取り組んだ研究でのシステム開発について記述します．開発したウェブサイトは限定された利用者のみ利用可能ですので，URLを貼ることはできませんが，できるだけ詳細な説明を記載し，発表資料も添付しました．
 
 ### 1．背景
 　eduroam(エデュローム)は欧州TERENAで開発された学術系国際無線LANローミングシステムです．eduroamでは所属学術機関のIDで，利用者が他eduroam参加機関の無線LANを使用できるようにするため，世界規模のRADIUSツリーを構成して認証情報を相互利用します．世界70ヶ国(地域)，国内95機関がeduroamに参加しています．
@@ -33,5 +32,6 @@ permalink: /develop/
 ![Imgur](http://i.imgur.com/inaPJFM.png)
 
 ### 4. 参考文献
-1. [eduroamJP](http://eduroam.jp/)
-2. T. Niizuma and H. Goto, "Centralized Online Sign-up and Client Certificate Issuing System for eduroam," COMPSAC Workshop MidArch 2014, pp.174-179, 2014
+1. [eduroam JP](http://eduroam.jp/)
+2. T. Niizuma and H. Goto, "[Centralized Online Sign-up and Client Certificate Issuing System for eduroam](https://speakerdeck.com/tneeds/compsac2014?slide=1)," COMPSAC Workshop MidArch 2014, pp.174-179, 2014
+
