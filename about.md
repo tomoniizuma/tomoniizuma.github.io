@@ -13,7 +13,7 @@ permalink: /about/
 
 * IEEE802.1X, EAP, IEEE802.11i, RADIUSといった無線ネットワークの認証に関するプロトコル
 * TCP/IP, DNS, HTTPなどネットワーク技術に関する基礎知識
-* SAML, Shibboleth, OpenIDといった認証連携に関する実装に関する知識
+* SAML, Shibboleth, OpenIDといった認証連携に関する知識
 * HTTP2.0, QUICに関する知識
 * 並列処理に関する知識(少し)
 * コンピュータアーキテクチャに関する知識(少し)
