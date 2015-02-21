@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 開発実績
-permalink: /Develop/
+permalink: /develop/
 ---
 
 
