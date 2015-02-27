@@ -9,7 +9,7 @@ permalink: /develop/
 ここでは主に大学4年次(2013年4月〜2014年3月)に取り組んだ研究でのシステム開発について記述します．
 
 ### 1．背景
-　[eduroam](http://eduroam.jp)(エデュローム)は欧州TERENAで開発された学術系国際無線LANローミングシステムです．eduroamでは所属学術機関のIDで，利用者が他eduroam参加機関の無線LANを使用できるようにするため，世界規模のRADIUSツリーを構成して認証情報を相互利用します．世界70ヶ国(地域)，国内95機関がeduroamに参加しています．
+　[eduroam](http://eduroam.jp)(エデュローム)は欧州TERENAで開発された学術系国際無線LANローミングシステムです．eduroamでは所属学術機関のIDで，利用者が他eduroam参加機関の無線LANを使用できるようにするため，世界規模のRADIUSツリーを構成して認証情報を相互利用します．世界70ヶ国(地域)，国内98機関がeduroamに参加しています．
 
 ![Imgur](http://i.imgur.com/Nhltvxj.png)
 
