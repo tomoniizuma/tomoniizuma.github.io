@@ -5,20 +5,55 @@ permalink: /about/
 ---
 
 
-### 新妻　共(にいづま　とも)
-東北大学　情報科学研究科　博士前期課程1年
+### Profile
+<table class="wMax">
+			<tr>
+				<td class="w100">Name</td>
+				<td>　新妻 共（Niizuma Tomo）</td>
+			</tr>
+			<tr>
+				<td>Speciality</td>
+				<td>　無線ネットワークの認証，認証連携に関する分野</td>
+			</tr>
+</table>
+<br>
 
+### My Skills
 
-### できること・知っていることなど
-
-* IEEE802.1X, EAP, IEEE802.11i, RADIUSといった無線ネットワークの認証に関するプロトコル
-* TCP/IP, DNS, HTTPなどネットワーク技術に関する基礎知識
-* SAML, Shibboleth, OpenIDといった認証連携に関する知識
-* HTTP/2, QUICに関する知識
-* 並列処理に関する知識(少し)
-* コンピュータアーキテクチャに関する知識(少し)
-* Linuxの基本的な操作
-* Apacheの設定(少し)
-* Postgresql(少し)
-* Perl
-* C/C++(少し)
+<table cellspacing="7">
+			<tr>
+				<td >IEEE 802.1X, EAP</td>
+				<td>●●●●○</td>
+			</tr>
+			<tr>
+				<td>RADIUS, RadSec</td>
+				<td>●●●●○</td>
+			</tr>
+			<tr>
+				<td>SAML, Shibboleth </td>
+				<td>●●●○○</td>
+			</tr>
+			<tr> 	<td>HTTP/2, QUIC </td>
+				<td>●●●○○</td>
+			</tr>
+			<tr>
+				<td>Perl</td>
+				<td>●●●○○</td>
+			</tr>
+			<tr>
+				<td>Postgresql</td>
+				<td>●●●○○</td>
+			</tr>
+			<tr>
+				<td>C/C++</td>
+				<td>●●○○○</td>
+			</tr>
+			<tr>
+				<td>TOEIC(IP)</td>
+				<td>755点</td>
+			</tr>
+			<tr>
+				<td>Other</td>
+				<td>TCP/IP, DNS, Computer Architecture, Parallell Computing, JavaScript, Linux, vim</td>
+			</tr>
+	</table>

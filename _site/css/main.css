@@ -142,6 +142,10 @@ pre {
   .icon > svg path {
     fill: #828282; }
 
+table {
+  border-spacing: 10px 4px;
+  border-collapse: separate; }
+
 /**
  * Site header
  */
