@@ -49,8 +49,8 @@ permalink: /about/
 				<td>●●○○○</td>
 			</tr>
 			<tr>
-				<td>TOEIC(IP)</td>
-				<td>755点</td>
+				<td>TOEIC(R)</td>
+				<td>850点</td>
 			</tr>
 			<tr>
 				<td>Other</td>
