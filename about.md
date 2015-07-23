@@ -9,16 +9,41 @@ permalink: /about/
 <table class="wMax">
 			<tr>
 				<td class="w100">Name</td>
-				<td>　新妻 共（Niizuma Tomo）</td>
+				<td>　新妻 共（Tomo Niizuma）</td>
 			</tr>
 			<tr>
 				<td>Speciality</td>
-				<td>　無線ネットワークの認証，認証連携に関する分野</td>
+				<td>　無線ネットワークにおける認証・認可，認証連携など</td>
 			</tr>
 </table>
 <br>
 
+### Publications
+* **Tomo Niizuma**  
+[Load and performance analysis on the RADIUS network](https://www.terena.org/activities/tf-mobility/meetings/33/TF-MNM-33rd_niizuma.pdf)    
+33rd TF-Mobility and Network Middleware Meeting (TF-MNM), Vienna, Austria, December 2014.
+
+* **Tomo Niizuma** and Hideaki Goto  
+[Centralized Online Sign-up and Client Certificate Issuing System for eduroam](https://speakerdeck.com/tneeds/compsac2014?slide=1)    
+COMPSAC Workshop MidArch 2014, pp.174-179, Västerås, Sweden, July 2014.
+
+* **新妻 共**, 後藤英昭  
+耐障害性・耐災害性を有する無線 LAN ローミング基盤のためのクライアント証明書発行システム  
+2014 年 電子情報通信学会 総合大会講演論文集 B-16-2, pp.554, 2014年3月.
+
+* 後藤英昭, **新妻 共**, 中村素典, 曽根秀昭   
+キャンパス無線eduroamの最新動向と国内機関向け新サービス  
+大学ICT推進協議会 2014年度年次大会論文集 F3B-2 2014年12月.
+
+### Other
+* 日本電信電話株式会社 夏期インターンシップ参加(2014年8月18日~9月12日)  
+【テーマ】Web 高速化技術の性能評価と適応領域の検討
+
+* 国際ナノ・マイクロアプリケーションコンテスト(iCAN\'2011, Beijing, China, June 2011)出場  
+【Project Name】Air Scale
+
 ### My Skills
+
 
 <table cellspacing="7">
 			<tr>
@@ -52,8 +77,8 @@ permalink: /about/
 				<td>TOEIC(R)</td>
 				<td>850点</td>
 			</tr>
-			<tr>
+	<!--		<tr>
 				<td>Other</td>
 				<td>TCP/IP, DNS, Computer Architecture, Parallell Computing, JavaScript, Linux, vim</td>
-			</tr>
+			</tr> -->
 	</table>
