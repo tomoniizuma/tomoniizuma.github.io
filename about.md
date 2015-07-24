@@ -19,13 +19,13 @@ permalink: /about/
 <br>
 
 ### Publications
-* **Tomo Niizuma** and Hideaki Goto
-[Easily and Fast Deployable WMN system for eduroam](https://tnc15.terena.org/core/poster/13)
-TNC15, Porto, Portugal, June 2015.
-
-* Hideaki Goto , **Tomo Niizuma**, Motonori Nakamura and Hideaki Sone
-[eduroam IdP as a Service -benefits and operational experiences-](https://tnc15.terena.org/core/poster/24)
-TNC15, Porto, Portugal, June 2015.
+* **Tomo Niizuma** and Hideaki Goto    
+[Easily and Fast Deployable WMN system for eduroam](https://tnc15.terena.org/core/poster/13)    
+TNC15, Porto, Portugal, June 2015.  
+  
+* Hideaki Goto , **Tomo Niizuma**, Motonori Nakamura and Hideaki Sone    
+[eduroam IdP as a Service -benefits and operational experiences-](https://tnc15.terena.org/core/poster/24)   
+TNC15, Porto, Portugal, June 2015.  
 
 * **Tomo Niizuma**  
 [Load and performance analysis on the RADIUS network](https://www.terena.org/activities/tf-mobility/meetings/33/TF-MNM-33rd_niizuma.pdf)    
