@@ -56,11 +56,8 @@ COMPSAC Workshop MidArch 2014, pp.174-179, Västerås, Sweden, July 2014.
 				<td>RADIUS, RadSec</td>
 				<td>●●●●○</td>
 			</tr>
-			<tr>
-				<td>SAML, Shibboleth </td>
-				<td>●●●○○</td>
-			</tr>
-			<tr> 	<td>HTTP/2, QUIC </td>
+			<tr> 	
+				<td>HTTP/2, QUIC </td>
 				<td>●●●○○</td>
 			</tr>
 			<tr>
@@ -71,6 +68,11 @@ COMPSAC Workshop MidArch 2014, pp.174-179, Västerås, Sweden, July 2014.
 				<td>Postgresql</td>
 				<td>●●●○○</td>
 			</tr>
+			<tr>
+				<td>SAML, Shibboleth </td>
+				<td>●●●○○</td>
+			</tr>
+
 			<tr>
 				<td>C/C++</td>
 				<td>●●○○○</td>
