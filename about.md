@@ -70,7 +70,7 @@ COMPSAC Workshop MidArch 2014, pp.174-179, Västerås, Sweden, July 2014.
 			</tr>
 			<tr>
 				<td>SAML, Shibboleth </td>
-				<td>●●●○○</td>
+				<td>●●○○○</td>
 			</tr>
 
 			<tr>
