@@ -27,6 +27,10 @@ TNC15, Porto, Portugal, June 2015.
 [eduroam IdP as a Service -benefits and operational experiences-](https://tnc15.terena.org/core/poster/24)   
 TNC15, Porto, Portugal, June 2015.  
 
+* 後藤英昭, **新妻 共**, 中村素典, 曽根秀昭   
+キャンパス無線eduroamの最新動向と国内機関向け新サービス  
+大学ICT推進協議会 2014年度年次大会論文集 F3B-2 2014年12月.
+
 * **Tomo Niizuma**  
 [Load and performance analysis on the RADIUS network](https://www.terena.org/activities/tf-mobility/meetings/33/TF-MNM-33rd_niizuma.pdf)    
 33rd TF-Mobility and Network Middleware Meeting (TF-MNM), Vienna, Austria, December 2014.
@@ -38,10 +42,6 @@ COMPSAC Workshop MidArch 2014, pp.174-179, Västerås, Sweden, July 2014.
 * **新妻 共**, 後藤英昭  
 耐障害性・耐災害性を有する無線 LAN ローミング基盤のためのクライアント証明書発行システム  
 2014 年 電子情報通信学会 総合大会講演論文集 B-16-2, pp.554, 2014年3月.
-
-* 後藤英昭, **新妻 共**, 中村素典, 曽根秀昭   
-キャンパス無線eduroamの最新動向と国内機関向け新サービス  
-大学ICT推進協議会 2014年度年次大会論文集 F3B-2 2014年12月.
 
 
 ### My Skills
@@ -79,7 +79,7 @@ COMPSAC Workshop MidArch 2014, pp.174-179, Västerås, Sweden, July 2014.
 			</tr>
 			<tr>
 				<td>TOEIC(R)</td>
-				<td>850点</td>
+				<td>850</td>
 			</tr>
 	<!--		<tr>
 				<td>Other</td>
