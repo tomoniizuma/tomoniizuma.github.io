@@ -37,7 +37,7 @@ COMPSAC Workshop MidArch 2014, pp.174-179, Västerås, Sweden, July 2014.
 [Easily and Fast Deployable WMN system for eduroam](https://tnc15.terena.org/core/poster/13) 
 TNC15, Porto, Portugal, June 2015. 
 
-* Hideaki Goto, **Tomo Niizuma**, Motonori Nakamura and Hideaki Sone 
+* Hideaki Goto, **Tomo Niizuma**, Motonori Nakamura and Hideaki Sone   
 [eduroam IdP as a Service -benefits and operational experiences-](https://tnc15.terena.org/core/poster/24) 
 TNC15, Porto, Portugal, June 2015. 
 
