@@ -71,10 +71,6 @@ TNC15, Porto, Portugal, June 2015.
 				<td>RADIUS, RadSec</td>
 				<td>●●●●○</td>
 			</tr>
-			<tr> 	
-				<td>HTTP/2, QUIC </td>
-				<td>●●●○○</td>
-			</tr>
 			<tr>
 				<td>Perl</td>
 				<td>●●●○○</td>
@@ -83,13 +79,18 @@ TNC15, Porto, Portugal, June 2015.
 				<td>Postgresql</td>
 				<td>●●●○○</td>
 			</tr>
+			<tr> 	
+				<td>HTTP/2, QUIC </td>
+				<td>●●○○○</td>
+			</tr>
+
 			<tr>
 				<td>SAML, Shibboleth </td>
 				<td>●●○○○</td>
 			</tr>
 
 			<tr>
-				<td>C/C++</td>
+				<td>C</td>
 				<td>●●○○○</td>
 			</tr>
 			<tr>
