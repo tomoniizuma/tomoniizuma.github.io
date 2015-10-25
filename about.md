@@ -13,7 +13,7 @@ permalink: /about/
 			</tr>
 			<tr>
 				<td>Research interests</td>
-				<td>　無線ネットワークにおける認証・認可，認証連携など</td>
+				<td>Authentication and authrization over wireless networks</td>
 			</tr>
 </table>
 <br>
