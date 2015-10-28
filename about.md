@@ -13,7 +13,7 @@ permalink: /about/
 			</tr>
 			<tr>
 				<td>Research interests</td>
-				<td>Authentication and authrization over wireless networks</td>
+				<td>Authentication and Authorization over wireless networks</td>
 			</tr>
 </table>
 <br>
