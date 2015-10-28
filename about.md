@@ -73,13 +73,17 @@ TNC15, Porto, Portugal, June 2015.
 			</tr>
 			<tr>
 				<td>Perl</td>
+				<td>●●●●○</td>
+			</tr>
+			<tr>
+				<td>Mojolicious</td>
 				<td>●●●○○</td>
 			</tr>
 			<tr>
 				<td>Postgresql</td>
 				<td>●●●○○</td>
-			</tr>
-			<tr> 	
+			</tr>	
+					<tr> 	
 				<td>HTTP/2, QUIC </td>
 				<td>●●○○○</td>
 			</tr>
