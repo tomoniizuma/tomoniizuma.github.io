@@ -58,6 +58,14 @@ TNC15, Porto, Portugal, June 2015.
 耐障害性・耐災害性を有する無線 LAN ローミング基盤のためのクライアント証明書発行システム  
 2014 年 電子情報通信学会 総合大会講演論文集 B-16-2, pp.554, 2014年3月.
 
+#### Other Presentations
+
+* **Tomo Niizuma**  
+[Load and performance analysis on the RADIUS network](https://www.terena.org/activities/tf-mobility/meetings/33/TF-MNM-33rd_niizuma.pdf)    
+33rd TF-Mobility and Network Middleware Meeting (TF-MNM), Vienna, Austria, December 2014.
+
+
+
 
 ### My Skills and Interests
 
