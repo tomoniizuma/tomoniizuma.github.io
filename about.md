@@ -50,7 +50,7 @@ TNC15, Porto, Portugal, June 2015.
 
 <!---
 * **Tomo Niizuma**  
-[Load and performance analysis on the RADIUS network](https://www.terena.org/activities/tf-mobility/meetings/33/TF-MNM-33rd_niizuma.pdf)    
+[Load and performance analysis on the RADIUS network](https://www.terena.org/activities/tf-mobility/meetings/33/)    
 33rd TF-Mobility and Network Middleware Meeting (TF-MNM), Vienna, Austria, December 2014.
 -->
 
