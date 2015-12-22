@@ -24,7 +24,7 @@ permalink: /about/
 
 * **Tomo Niizuma** and Hideaki Goto  
 Quick- and Easy-to-Deploy Wireless Mesh Network System for WLAN Roaming Services   
-AINTEC 2015, Accepted.
+AINTEC 2015, Bangkok, Thailand, November 2015.
 
 
 * **Tomo Niizuma** and Hideaki Goto  
