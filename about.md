@@ -24,7 +24,7 @@ permalink: /about/
 
 * **Tomo Niizuma** and Hideaki Goto  
 Quick- and Easy-to-Deploy Wireless Mesh Network System for WLAN Roaming Services   
-AINTEC 2015, Bangkok, Thailand, November 2015.
+AINTEC 2015, pp.9-16, Bangkok, Thailand, November 2015.
 
 
 * **Tomo Niizuma** and Hideaki Goto  
@@ -45,7 +45,7 @@ TNC15, Porto, Portugal, June 2015.
 #### Non-Reviewed Papers     
 
 * 後藤英昭, **新妻 共**, 中村素典, 曽根秀昭   
-キャンパス無線eduroamの最新動向と国内機関向け新サービス  
+キャンパス無線eduroamの最新動向と国内機関向け新サービス  
 大学ICT推進協議会 2014年度年次大会論文集 F3B-2 2014年12月.
 
 <!---
@@ -55,7 +55,7 @@ TNC15, Porto, Portugal, June 2015.
 -->
 
 * **新妻 共**, 後藤英昭  
-耐障害性・耐災害性を有する無線 LAN ローミング基盤のためのクライアント証明書発行システム  
+耐障害性・耐災害性を有する無線 LAN ローミング基盤のためのクライアント証明書発行システム  
 2014 年 電子情報通信学会 総合大会講演論文集 B-16-2, pp.554, 2014年3月.
 
 #### Other Presentations
