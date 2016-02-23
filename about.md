@@ -23,7 +23,7 @@ permalink: /about/
 #### International Conference Papers
 
 * **Tomo Niizuma** and Hideaki Goto  
-Quick- and Easy-to-Deploy Wireless Mesh Network System for WLAN Roaming Services   
+[Quick- and Easy-to-Deploy Wireless Mesh Network System for WLAN Roaming Services](http://dl.acm.org/authorize?N09665) 
 AINTEC 2015, pp.9-16, Bangkok, Thailand, November 2015.
 
 
