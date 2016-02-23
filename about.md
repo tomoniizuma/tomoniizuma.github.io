@@ -28,7 +28,7 @@ AINTEC 2015, pp.9-16, Bangkok, Thailand, November 2015.
 
 
 * **Tomo Niizuma** and Hideaki Goto  
-[Centralized Online Sign-up and Client Certificate Issuing System for eduroam](https://speakerdeck.com/tneeds/compsac2014?slide=1)    
+Centralized Online Sign-up and Client Certificate Issuing System for eduroam    
 COMPSAC Workshop MidArch 2014, pp.174-179, Västerås, Sweden, July 2014.
 
 #### Posters
