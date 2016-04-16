@@ -69,7 +69,7 @@ TNC15, Porto, Portugal, June 2015.
 
 ### My Skills and Interests
 
-
+<!--
 <table cellspacing="7">
 			<tr>
 				<td >IEEE 802.1X, EAP</td>
@@ -114,3 +114,4 @@ TNC15, Porto, Portugal, June 2015.
 				<td>TCP/IP, DNS, Computer Architecture, Parallell Computing, JavaScript, Linux, vim</td>
 			</tr> -->
 	</table>
+-->
