@@ -2,7 +2,7 @@
 layout: default
 ---
 
-### [About me](./about)
+<!--### [About me](./about)-->
 
 <!--### [開発実績](./develop) -->
 
