@@ -20,6 +20,18 @@ permalink: /about/
 
 ### Publications
 
+#### Journal Papers
+
+* **Tomo Niizuma** and Hideaki Goto  
+[Easy-to-Deploy Wireless Mesh Network System with User Authentication and WLAN Roaming Features
+](https://www.jstage.jst.go.jp/article/transinf/E100.D/3/E100.D_2016EDP7123/_pdf)  
+IEICE Transactions on Information and Systems
+Vol. E100.D (2017) No. 3, pp.511-519, March 2017.
+
+* **Tomo Niizuma** and Hideaki Goto  
+大規模学術系無線LANローミングのための集中型認証システム 
+電子情報通信学会論文誌 D　Vol.J100-D No.5, pp.584-594 2017年5月.
+
 #### International Conference Papers
 
 * **Tomo Niizuma** and Hideaki Goto  
