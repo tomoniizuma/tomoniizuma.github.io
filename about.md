@@ -29,8 +29,8 @@ IEICE Transactions on Information and Systems
 Vol. E100.D (2017) No. 3, pp.511-519, March 2017.
 
 * 後藤英昭, **新妻 共**, 大和純一   
-大規模学術系無線LANローミングのための集中型認証システム 
-電子情報通信学会論文誌 D　Vol.J100-D No.5, pp.584-594 2017年5月.
+大規模学術系無線LANローミングのための集中型認証システム   
+電子情報通信学会論文誌 D　Vol.J100-D No.5, pp.584-594 2017年5月. 
 
 #### International Conference Papers
 
